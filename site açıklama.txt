@@ -1,0 +1,9 @@
+sitemin amacı balık sitesi balıklar ile ilgi kısa bilgiler veriyor admin panelinden bunları yönetebiliyoruz ana sayfam index php balık sayfaları otomatik oluşturluyor bunuda admin phpden kontrol edebiliyoruz index phpden üye girişide yapabiliyoruz üye girişi üye kaydı güvenli html kodu felan kabul etmicek şekilde yapıldı veri tabanı ile bağlantım aktif bir şekilde var doğru mu atım bilmiyorum ama sql server export yapıp yoladım üye girişi yaptıktan sonra bir sesion oluşturuyor güvenli çıkış yaparak çıkabiliyoruz aynı şekilde admin panelindede bu şekilde giriş ve çıkış yapmak münkün admin panelinden admin eklme admin görüntüleme admin silme kulanıcı görüntüleme silme balık sayfası yapma silme vardır ve gene aynı şekilde güvenli çıkış diyerek çıkış yapılabilir normalde admin.php nin felan adınıda değiştircektim daha kolay olsun diye bu şekilde yaptım sitemle hiçbir bağlantısı yok o yüzden arama kısmına admin.php yazılarak giriş yapılabilir giriş yapmadan adminpaneline felan giriş yapılamaz balık ekleme link olarak yapılıyor img ekliyerekde yapabilirdim ama sayfanın dinamik yapısını bozmamak için böyle yapmayı tercih ettim 
+-------------------------------------------------------------------
+ÖNEMLİ BİLGİLER
+anasayfa=index.php
+admin giriş = admin.php
+admin adı =furkan
+admin parola =furkan123
+isterseniz yeni admin ekleyip benim adminimi silebilirsiniz
+veri tabanı eğer açılmasa resimleride var serverdan export etim ama ne olur ne olmaz
